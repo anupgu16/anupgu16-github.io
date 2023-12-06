@@ -16,12 +16,14 @@ My GitHub page is http://github.com/anup_gu16.
     the different ways I would have to code.
 
 * Lab 5
+
     Lab 05, part 2, was another favorite of mine due to the introduction of
     integers, decimals, and conversion. Being able to convert integers so that
     they can be properly utilized was a fun challenge. Albeit I was confused
     but after further guidance and explanation it became entertaining to complete.
 
 * Lab 6
+
     Lab 06, part 2, was my favorite lab of the semester. Blackjack is more complex
     than any of the other scenarios we were dealt and I immediately realized how 
     the game’s aspects can be applied to code. Since its a game, I made use of 
